@@ -1,0 +1,41 @@
+[33mcommit f1ace8f28767f5db5409cc03e9b1ba27d9720743[m
+Author: shyakaster <shyakaster@gmail.com>
+Date:   Fri Dec 14 16:44:09 2012 +0300
+
+    Testing mv
+
+[33mcommit 59cee8f7dbef2d4774bfa413b43e718c888a8d99[m
+Author: shyakaster <shyakaster@gmail.com>
+Date:   Fri Dec 14 16:43:12 2012 +0300
+
+    Testing mv
+
+[33mcommit 9e2b59ff6d7249cdc3303e41151d9a9039d8a546[m
+Author: shyakaster <shyakaster@gmail.com>
+Date:   Fri Dec 14 16:33:43 2012 +0300
+
+    Testing commit untracked to tracked
+
+[33mcommit 64dfc3eefe02015f1f7bb92b9cc824ea2e54d9ad[m
+Author: shyakaster <shyakaster@gmail.com>
+Date:   Fri Dec 14 16:31:58 2012 +0300
+
+    Testing commit delete
+
+[33mcommit 879bb92c7a3948efac646f5aa75f25a3008c6034[m
+Author: shyakaster <shyakaster@gmail.com>
+Date:   Fri Dec 14 16:21:22 2012 +0300
+
+    Testing commit done
+
+[33mcommit cff5d4a5bb378d1da5b057f19687777d1022bb97[m
+Author: shyakaster <shyakaster@gmail.com>
+Date:   Fri Dec 14 16:19:20 2012 +0300
+
+    Testing commit
+
+[33mcommit e9b786335844c94cfb2f43f1e6953f5a624a3d36[m
+Author: shyakaster <shyakaster@gmail.com>
+Date:   Fri Dec 14 14:38:23 2012 +0300
+
+    initial project version
