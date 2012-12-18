@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world for git testing for real");
+            Console.WriteLine("Hello world am git testing for real");
             Console.ReadLine();
         }
     }
