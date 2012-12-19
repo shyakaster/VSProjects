@@ -10,7 +10,7 @@ namespace TestingGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Testing git push");
+            Console.WriteLine("Testing git push here");
             Console.ReadLine();
         }
     }
